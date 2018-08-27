@@ -1,0 +1,1 @@
+/ead[1]/eadheader/eadid && /ead[1]/archdesc[1]/did/unitid && /ead[1]/archdesc[1]/did/unittitle && /ead[1]/archdesc[1]/did/unittitle/unitdate && /ead[1]/archdesc[1]/bioghist[1]/head && /ead[1]/archdesc[1]/bioghist[1]/chronlist[1]/chronitem[1]/event && /ead[1]/archdesc[1]/bioghist[1]/chronlist[1]/chronitem[1]/date[1] && /ead/archdesc/bioghist/chronlist/chronitem/date

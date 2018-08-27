@@ -1,0 +1,1 @@
+/ead[1]/archdesc/did/unittitle && /ead[1]/archdesc/did/unittitle/unitdate && /ead[1]/eadheader[1]/eadid && /ead[1]/eadheader[1]/filedesc[1]/titlestmt[1]/subtitle && /ead[1]/eadheader[1]/filedesc[1]/titlestmt[1]/titleproper[1] && /ead/eadheader/filedesc/titlestmt/titleproper
